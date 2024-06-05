@@ -6,4 +6,6 @@ class Book:
         self.title = None
         self.author = None
         self.isbn = None
+	self.price = None
+	self.year = None
 
